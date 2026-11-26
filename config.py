@@ -10,9 +10,6 @@ BASE_URL = "https://spyeyeloots4.online/up_yonoV3/"
 SPYEYE_API_KEY = "TBRWBDEEPFRND7WYB"
 
 # License (Safety ke liye rakha hai agar code import kare)
-LICENSE_KEY = "LF-BALI-001"
-SECRET_KEY = "7g0k9fs74m2b4c5e"
-LICENSE_SERVER = "https://spyeye-cv4o.onrender.com/api/check-license"
 
 # Timers
 MAIN_GAME_WAIT = 130
