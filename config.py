@@ -54,14 +54,20 @@ GAME_MAP = {
     "YesSpin": {"api": "yesspin", "ui": "YesSpin"},
     "GoldRummy": {"api": "goldrummy", "ui": "GoldRummy"},
     "TopRummy": {"api": "toprummy", "ui": "TopRummy"},
-    "JoyRummy": {"api": "joyrummy", "ui": "JoyRummy"},
+    "JoyRummy": {"api": "joyrummy", "ui": "Joyrummy"},
     "RummyZip": {"api": "rummyzip", "ui": "RummyZip"},
     "RummyRumble": {"api": "rummyrumble", "ui": "RummyRumble"},
     "SpinRummy": {"api": "spinrummy", "ui": "spinrummy"},
     "Spin101": {"api": "spin101", "ui": "Spin101"},
     "SagaSlots": {"api": "sagaslots", "ui": "SagaSlots"},
     "LoveRummy": {"api": "loverummy", "ui": "LoveRummy"},
-    "Jaiho777": {"api": "jaiho777", "ui": "Jaiho777"},
+    "SpinWinner": {"api": "spinwinner", "ui": "SpinWinner"},
+    "JaiHo777": {"api": "jaiho777", "ui": "JaiHo777"},
+    "JeetSpin": {"api": "jeetspin", "ui": "JeetSpin"},
+    "SpinGold": {"api": "spingold", "ui": "SpinGold"},
+    "JaiHoSpin": {"api": "jaihospin", "ui": "JaiHoSpin"},
+    "Hindi777": {"api": "hindi777", "ui": "Hindi777"},
+    "JaiHoRummy": {"api": "jaihorummy", "ui": "JaiHoRummy"}
 }
 
 API_TO_UI = {v["api"].lower(): v["ui"] for v in GAME_MAP.values()}
